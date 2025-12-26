@@ -22,17 +22,18 @@ and customer spending behavior using SQL.
 ## Project Screenshots
 
 ### Database Tables
-![Tables](screenshots/01_tables_created.png)
+![Tables](01_tables_created.png)
 
 ### Customers Data
-![Customers](screenshots/02_customers_data.png)
+![Customers](02_customers_data.png)
 
 ### Revenue by Region
-![Revenue](screenshots/05_revenue_by_region.png)
+![Revenue](05_revenue_by_region.png)
 
 ### Top Selling Products
-![Top Products](screenshots/06_top_products.png)
+![Top Products](06_top_products.png)
 
 ### High Value Customers
-![High Value Customers](screenshots/07_high_value_customers.png)
+![High Value Customers](07_high_value_customers.png)
+
 
